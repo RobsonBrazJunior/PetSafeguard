@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetSafeguardApi", "PetSafeguardApi\PetSafeguardApi.csproj", "{9177FB40-C0B0-43B1-A318-34B11CCC7FE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetSafeguardTest", "PetSafeguardTest\PetSafeguardTest.csproj", "{1D97E6CB-3A73-4646-8320-53D4972BC5B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9177FB40-C0B0-43B1-A318-34B11CCC7FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9177FB40-C0B0-43B1-A318-34B11CCC7FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9177FB40-C0B0-43B1-A318-34B11CCC7FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D97E6CB-3A73-4646-8320-53D4972BC5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D97E6CB-3A73-4646-8320-53D4972BC5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D97E6CB-3A73-4646-8320-53D4972BC5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D97E6CB-3A73-4646-8320-53D4972BC5B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
